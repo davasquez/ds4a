@@ -1,0 +1,8 @@
+# ignore pycache
+__pycache__
+
+# ignore swp files
+*.sw*
+
+# DS_STORE files generated in iOS
+.DS_STORE
